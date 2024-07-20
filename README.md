@@ -1,4 +1,4 @@
-<h1 align="center">Shobhit Patra</h1>
+<h1 align="center">SHOBHIT PATRA</h1>
 <h3 align="center">Software Developer</h3>
 <p align="center">
  <img alt="Coding" width="300" height="auto" src="assets/coding.gif"/>
@@ -13,20 +13,20 @@
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarjit-sahoo&hide_border=false&no-bg=true&no-frame=true&layout=compact&theme=neon"/></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShobhitPatra&hide_border=false&no-bg=true&no-frame=true&layout=compact&theme=neon"/></p>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samarjit-sahoo&theme=darkhub&title=-Issues,-Reviews&row=2&column=3">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShobhitPatra&theme=darkhub&title=-Issues,-Reviews&row=2&column=3">
 </div>
 <p align="center">
-  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=samarjit-sahoo&hide_border=false&theme=neon" /> 
+  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ShobhitPatra&hide_border=false&theme=neon" /> 
 </p>  
 <div align="center">
 <a href="https://github.com/ShobhitPatra">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samarjit-sahoo&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samarjit-sahoo&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samarjit-sahoo&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samarjit-sahoo&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samarjit-sahoo&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShobhitPatra&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShobhitPatra&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShobhitPatra&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShobhitPatra&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShobhitPatra&theme=2077" height="180em" />
 </div>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
