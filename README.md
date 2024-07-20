@@ -5,7 +5,7 @@
 </p>
 <h3 align="center">My interests</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Web Dvelopment;Devops;Web3;Artificial Intelligence;&font=Fira%20Code&center=true&width=380&height=50&duration=1000&pause=1000&color=0e8a37" alt="Interests">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Web Development;Devops;Web3;Artificial Intelligence;&font=Fira%20Code&center=true&width=380&height=50&duration=1000&pause=1000&color=0e8a37" alt="Interests">
 <p align="center">Currently working on - Private Projects</p>
 <p align="center">Currently learning - NextJs</p>
 
